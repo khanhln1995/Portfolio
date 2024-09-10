@@ -94,11 +94,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://portfolio-um96.onrender.com/"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Portfolio
+                <ImBlog style={{ marginBottom: "2px" }} /> My Website
               </Nav.Link>
             </Nav.Item>
 

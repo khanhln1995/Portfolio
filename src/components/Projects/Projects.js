@@ -30,7 +30,6 @@ function Projects() {
               description="The social web app, built with Vue.js on the frontend and NestJS on the backend, integrates seamlessly with the eCommerce platform. Users can engage in typical social activities like posting, liking, sharing, and commenting while also purchasing packages that unlock privileges and rewards. The app leverages the Vue.js framework for dynamic, real-time interactions and smooth UI updates.
 
 With its NestJS backend, the app provides robust, scalable APIs to handle social interactions, package purchases, and user data management. The integration with the eCommerce system allows users to share and discuss products, earn rewards from engagement, and access exclusive shop discounts based on their membership level (Basic, Premium, Elite)."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://app.tomiru.com/"
             />
           </Col>
@@ -45,7 +44,6 @@ With its NestJS backend, the app provides robust, scalable APIs to handle social
 The app integrates with the social platform, enabling users to share products, earn rewards, and access special deals based on their membership level (Basic, Premium, Elite). The admin dashboard, built with Next.js for the frontend and PHP Laravel for the backend, provides centralized control over user management, shops, transactions, and product listings. It allows administrators to manage shops, approve new vendors, track overall platform sales, and monitor user activities.
 
 This combination of multishop eCommerce and social interaction creates a dynamic platform for both sellers and buyers, with seamless management through the admin dashboard."
-              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://shop.tomiru.com/"
             />
           </Col>
@@ -54,12 +52,12 @@ This combination of multishop eCommerce and social interaction creates a dynamic
             <ProjectCard
               imgPath={singleShop}
               isBlog={false}
-              title="Single Shope Ecommerce App"
+              title="Single ShopeEcommerce App"
               description="This eCommerce app is a single shop platform built with PHP Laravel, offering fully functional shopping features. Users can browse products, add items to their cart, make purchases, and track orders. The shop supports various payment methods and provides users with a smooth checkout process.
 
 The app includes a comprehensive admin dashboard that allows store administrators to manage product listings, orders, inventory, and user accounts. Admins can also view detailed sales reports, track customer activity, and manage promotions or discounts. The platform ensures a seamless shopping experience with robust backend functionality through Laravel, providing store management and analytics for administrators."
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              ghLink="https://github.com/dachieu2801/shop-freelance"
+              // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
