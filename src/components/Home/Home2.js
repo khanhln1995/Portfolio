@@ -26,14 +26,14 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, PHP and Dart. </b>
+                <b className="purple"> React Native. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to <b className="purple">Mobile.</b>
+                <b className="purple">Mobile Applications </b> and also in areas
+                related to <b className="purple">Website development.</b>
               </i>
               <br />
               <br />

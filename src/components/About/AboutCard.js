@@ -11,8 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">LE Nguyen Khanh </span>
             from <span className="purple"> Hanoi, Vietnam</span>
             <br />
-            I am currently employed as a fullstack developer at HD tech company.
-            <br />I have more than <span className="purple">1.5</span> year of
+            I am currently employed as a Front-End leader at Haroct
+            Technologies.
+            <br />I have more than <span className="purple">5</span> years of
             experience as a software developer.
             <br />
             <br />
